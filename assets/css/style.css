@@ -455,6 +455,30 @@ section {
 }
 
 /*--------------------------------------------------------------
+# RSVP
+--------------------------------------------------------------*/
+.rsvp {
+  padding: 80px 0;
+  background-color: white;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  height: 600px;
+}
+
+/*--------------------------------------------------------------
+# Accomodations
+--------------------------------------------------------------*/
+.accomodations {
+  padding: 80px 0;
+  background-color: #F5F5F5;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  height: 600px;
+}
+
+/*--------------------------------------------------------------
 # About Me
 --------------------------------------------------------------*/
 .about .content h3 {
