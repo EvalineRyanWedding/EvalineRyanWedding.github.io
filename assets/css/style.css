@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero h2 {
   color: #eee;
-  margin-bottom: 50px;
+  /*margin-bottom: 50px;*/
   font-size: 13px;
   font-weight: 500;
   letter-spacing: 1px;
@@ -455,27 +455,27 @@ section {
 }
 
 /*--------------------------------------------------------------
-# RSVP
+# timeline
 --------------------------------------------------------------*/
-.rsvp {
-  padding: 80px 0;
+.timeline {
+  padding: 50px 100px 50px 100px;
   background-color: white;
   background-position: center center;
   background-size: cover;
   position: relative;
-  height: 600px;
+  height: 500px;
 }
 
 /*--------------------------------------------------------------
-# Accomodations
+# accomodations
 --------------------------------------------------------------*/
 .accomodations {
-  padding: 80px 0;
-  background-color: #F5F5F5;
+  padding: 50px 100px 50px 100px;
+  background-color: #E5E4E2;
   background-position: center center;
   background-size: cover;
   position: relative;
-  height: 600px;
+  height: 500px;
 }
 
 /*--------------------------------------------------------------
