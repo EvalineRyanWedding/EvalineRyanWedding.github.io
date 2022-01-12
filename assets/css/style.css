@@ -458,24 +458,22 @@ section {
 # timeline
 --------------------------------------------------------------*/
 .timeline {
-  padding: 50px 100px 50px 100px;
+  padding: 50px 0px 50px 0px;
   background-color: white;
   background-position: center center;
   background-size: cover;
   position: relative;
-  height: 500px;
 }
 
 /*--------------------------------------------------------------
 # accomodations
 --------------------------------------------------------------*/
 .accomodations {
-  padding: 50px 100px 50px 100px;
+  padding: 50px 0px 50px 0px;
   background-color: #E5E4E2;
   background-position: center center;
   background-size: cover;
   position: relative;
-  height: 500px;
 }
 
 /*--------------------------------------------------------------
